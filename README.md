@@ -29,7 +29,7 @@ English | [中文](README_zhCN.md)
 ## 📋 System Requirements
 
 - **Operating System**: Linux (Ubuntu 18.04+, CentOS 7+, other distributions)
-- **Go Version**: 1.18 or higher
+- **Go Version**: 1.27.3 or higher
 - **System Permissions**: Recommended to run with root privileges (for service management)
 - **System Tools**: `tar`, `unzip`, `systemctl` (optional)
 
